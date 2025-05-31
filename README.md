@@ -1,2 +1,2 @@
 # pure-python-echo-agent
-A minimalist AI agent built with pure Python and the OpenAI API. No frameworks, just a prompt, a loop, and GPT-4.
+Pure Python Echo Agent is a lightweight, framework-free AI chatbot that uses the OpenAI Chat API to respond to user input in real time. Designed as a starting point for anyone interested in building AI agents with plain Python, this project includes a simple event loop, a system prompt, and real-time interaction via the terminal. Ideal for beginners, educators, and developers who want to understand LLM-based agents from the ground up—without the overhead of LangChain or other libraries.
